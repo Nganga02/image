@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="engineering" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/engineering" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="/home/kamau/Downloads/cat.ppm /home/kamau/Downloads/cat4.ppm" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="netpbm" />
+					<Add library="freetype" />
+					<Add library="z" />
+					<Add library="jpeg" />
+					<Add library="png" />
+					<Add library="m" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/engineering" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="netpbm" />
+					<Add library="freetype" />
+					<Add library="jpeg" />
+					<Add library="m" />
+					<Add library="z" />
+					<Add library="png" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="m" />
+		</Linker>
+		<Unit filename="fetch_line.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fetch_line.h" />
+		<Unit filename="fetch_line_demo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gd-test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="image-analysis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="image-io-test-2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="image-io-test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="image-io-test1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="image-io.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="image-io.h" />
+		<Unit filename="jpg_to_ppm.h" />
+		<Unit filename="mallo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="malloc.h" />
+		<Unit filename="matrix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="png_to_ppm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="profile.txt" />
+		<Unit filename="randint.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="random-pbm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sparse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sparse.h" />
+		<Unit filename="sparse_demo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="umfpack_demo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wavelet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wavelet.h" />
+		<Unit filename="wavelet_test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="xmalloc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

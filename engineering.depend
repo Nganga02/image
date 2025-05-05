@@ -1,0 +1,730 @@
+# depslib dependency file v1.0
+1738845923 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\struct.c
+	<stdio.h>
+	<stddef.h>
+
+1739365632 
+
+1739041769 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\mallo.c
+	<stdio.h>
+	<stdlib.h>
+
+1739722605 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\xmalloc.c
+	"malloc.h"
+	<stddef.h>
+	<stdio.h>
+
+1742895511 c:\users\pc\documents\education\programming for engineers\projects\engineering\malloc.h
+	<stdlib.h>
+
+1739723031 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\vector.c
+	<stdio.h>
+	"malloc.h"
+
+1742812422 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\matrix.c
+	<stdio.h>
+	"malloc.h"
+
+1740049441 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\fetch_line.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"fetch_line.h"
+
+1740050014 e.h"
+
+1739952944 c:\users\pc\documents\education\programming for engineers\projects\engineering\fetch_line.h
+	<stdio.h>
+
+1740050014 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\fetch_line_demo.c
+	<stdio.h>
+	<stdlib.h>
+	"fetch_line.h"
+
+1740661060 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\randint.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1740971717 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\random-pbm.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+
+1742807728 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\sparse_demo.c
+	<stdio.h>
+	<stdlib.h>
+	"sparse.h"
+
+1742896374 c:\users\pc\documents\education\programming for engineers\projects\engineering\sparse.h
+
+1742897095 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\sparse.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+	<suitesparse/umfpack.h>
+
+1742897095 se/umfpack.h>
+
+1744094632 c:\msys64\mingw64\include\stdio.h
+	<corecrt_stdio_config.h>
+	<_mingw_off_t.h>
+	<swprintf.inl>
+	<sec_api/stdio_s.h>
+
+1744094632 tdio_s.h>
+
+1744094632 c:\msys64\mingw64\include\corecrt_stdio_config.h
+	<corecrt.h>
+
+1744094632 >
+
+1744094632 c:\msys64\mingw64\include\corecrt.h
+	<_mingw.h>
+	<winapifamily.h>
+
+1744094632 ily.h>
+
+1744094632 c:\msys64\mingw64\include\_mingw.h
+	"_mingw_mac.h"
+	"_mingw_secapi.h"
+	"_cygwin.h"
+	<vadefs.h>
+	"sdks/_mingw_ddk.h"
+
+1744094632 gw_ddk.h"
+
+1744094632 c:\msys64\mingw64\include\_mingw_mac.h
+
+1744094632 c:\msys64\mingw64\include\_mingw_secapi.h
+
+1744094632 c:\msys64\mingw64\include\_cygwin.h
+	<stddef.h>
+
+1744094632 c:\msys64\mingw64\include\stddef.h
+	<crtdefs.h>
+
+1744094632 c:\msys64\mingw64\include\crtdefs.h
+	<corecrt.h>
+
+1744094632 c:\msys64\mingw64\include\vadefs.h
+	<_mingw.h>
+
+1744094632 c:\msys64\mingw64\include\sdks\_mingw_ddk.h
+
+1744094632 c:\msys64\mingw64\include\winapifamily.h
+
+1744094632 c:\msys64\mingw64\include\_mingw_off_t.h
+
+1744094632 c:\msys64\mingw64\include\swprintf.inl
+	<vadefs.h>
+
+1744094632 c:\msys64\mingw64\include\sec_api\stdio_s.h
+	<stdio.h>
+
+1744094632 c:\msys64\mingw64\include\ctype.h
+	<corecrt_wctype.h>
+
+1744094632 ctype.h>
+
+1744094632 c:\msys64\mingw64\include\corecrt_wctype.h
+	<corecrt.h>
+
+1744094632 c:\msys64\mingw64\include\stdlib.h
+	<corecrt.h>
+	<corecrt_wstdlib.h>
+	<limits.h>
+	<sec_api/stdlib_s.h>
+	<malloc.h>
+
+1744094632 c:\msys64\mingw64\include\corecrt_wstdlib.h
+	<corecrt.h>
+
+1744094632 c:\msys64\mingw64\include\limits.h
+	<crtdefs.h>
+
+1744094632 c:\msys64\mingw64\include\sec_api\stdlib_s.h
+	<stdlib.h>
+
+1744094632 c:\msys64\mingw64\include\malloc.h
+	<crtdefs.h>
+	<mm_malloc.h>
+
+1744094632 .h>
+
+1744094632 c:\msys64\mingw64\include\string.h
+	<crtdefs.h>
+	<sec_api/string_s.h>
+
+1744094632 tring_s.h>
+
+1744094632 c:\msys64\mingw64\include\sec_api\string_s.h
+	<string.h>
+
+1744094632 c:\msys64\mingw64\include\time.h
+	<crtdefs.h>
+	<sys/timeb.h>
+	<_timeval.h>
+	<pthread_time.h>
+
+1744094632 ime.h>
+
+1744094632 c:\msys64\mingw64\include\sys\timeb.h
+	<crtdefs.h>
+	<sec_api/sys/timeb_s.h>
+
+1744094632 ys/timeb_s.h>
+
+1744094632 c:\msys64\mingw64\include\sec_api\sys\timeb_s.h
+	<sys/timeb.h>
+
+1744094632 c:\msys64\mingw64\include\_timeval.h
+
+1744095184 c:\msys64\mingw64\include\pthread_time.h
+	"pthread_compat.h"
+
+1744095184 ompat.h"
+
+1744095184 c:\msys64\mingw64\include\pthread_compat.h
+
+1743578990 c:\msys64\mingw64\include\suitesparse\umfpack.h
+	"SuiteSparse_config.h"
+	"amd.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+	"umfpack.h"
+
+1082595178 "
+
+1743578990 c:\msys64\mingw64\include\suitesparse\suitesparse_config.h
+	<stdio.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	<inttypes.h>
+	<stddef.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<ctype.h>
+	<omp.h>
+	<malloc.h>
+
+1744094632 c:\msys64\mingw64\include\errno.h
+	<crtdefs.h>
+
+1744094632 c:\msys64\mingw64\include\stdint.h
+	<crtdefs.h>
+	<stddef.h>
+
+1744094632 c:\msys64\mingw64\include\inttypes.h
+	<crtdefs.h>
+	<stdint.h>
+	<stddef.h>
+
+1744094632 c:\msys64\mingw64\include\math.h
+	<crtdefs.h>
+
+1744094632 c:\msys64\mingw64\include\stdarg.h
+	<_mingw_stdarg.h>
+
+1744094632 darg.h>
+
+1744094632 c:\msys64\mingw64\include\_mingw_stdarg.h
+	<vadefs.h>
+
+1743578990 c:\msys64\mingw64\include\suitesparse\amd.h
+	"SuiteSparse_config.h"
+
+1743578990 se_config.h"
+
+1744369343 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\umfpack_demo.c
+	<suitesparse/umfpack.h>
+	<stdlib.h>
+	<stdio.h>
+	"malloc.h"
+	"sparse.h"
+
+1743858539 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\wavelet.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"wavelet.h"
+
+1743476726 c:\users\pc\documents\education\programming for engineers\projects\engineering\wavelet.h
+
+1744369629 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\wavelet_test.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"malloc.h"
+	"wavelet.h"
+
+1744398685 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\image-io.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+	"image-io.h"
+
+1744398685 h"
+
+1744379181 c:\users\pc\documents\education\programming for engineers\projects\engineering\image-io.h
+	<netpbm/pam.h>
+
+1744379181 m.h>
+
+1108239124 c:\msys64\mingw64\include\pam.h
+	"pm.h"
+	"pnm.h"
+
+1744361484 c:\msys64\mingw64\include\pm.h
+	"pm_config.h"
+	<sys/types.h>
+	<ctype.h>
+	<stdio.h>
+	<errno.h>
+	<setjmp.h>
+	<sys/stat.h>
+	<perror.h>
+
+1115884035 c:\msys64\mingw64\include\pm_config.h
+	<stdint.h>
+	<string.h>
+	<fcntl.h>
+	<time.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdlib.h>
+	<malloc.h>
+	<clib/exec_protos.h>
+
+1115884035 _protos.h>
+
+1744094632 c:\msys64\mingw64\include\fcntl.h
+	<crtdefs.h>
+	<io.h>
+
+1744094632 c:\msys64\mingw64\include\io.h
+	<crtdefs.h>
+	<string.h>
+	<_mingw_off_t.h>
+	<string.h>
+
+1744094632 c:\msys64\mingw64\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+	<sys/types.h>
+	<pthread_unistd.h>
+
+1744094632 nistd.h>
+
+1744094632 c:\msys64\mingw64\include\process.h
+	<crtdefs.h>
+	<corecrt_startup.h>
+	<sys/types.h>
+
+1744094632 c:\msys64\mingw64\include\corecrt_startup.h
+	<corecrt.h>
+
+1744094632 c:\msys64\mingw64\include\sys\types.h
+	<crtdefs.h>
+	<_mingw_off_t.h>
+
+1744094632 f_t.h>
+
+1744094632 c:\msys64\mingw64\include\getopt.h
+	<crtdefs.h>
+
+1744095184 c:\msys64\mingw64\include\pthread_unistd.h
+
+1744094632 c:\msys64\mingw64\include\setjmp.h
+	<crtdefs.h>
+
+1744094632 c:\msys64\mingw64\include\sys\stat.h
+	<crtdefs.h>
+	<io.h>
+	<sys/types.h>
+	<_mingw_stat64.h>
+
+1744094632 at64.h>
+
+1744094632 c:\msys64\mingw64\include\_mingw_stat64.h
+
+1027281857 c:\msys64\mingw64\include\pnm.h
+	"ppm.h"
+
+1082595178 c:\msys64\mingw64\include\ppm.h
+	"pgm.h"
+	"ppmcmap.h"
+
+1079586425 c:\msys64\mingw64\include\pgm.h
+	"pbm.h"
+
+1091907267 c:\msys64\mingw64\include\pbm.h
+	"pm.h"
+
+1082585137 c:\msys64\mingw64\include\ppmcmap.h
+
+1108239124 c:\users\pc\downloads\netpbm-10.27-lib\include\pam.h
+	"pm.h"
+	"pnm.h"
+
+1115890600 c:\users\pc\downloads\netpbm-10.27-lib\include\pm.h
+	"pm_config.h"
+	<sys/types.h>
+	<ctype.h>
+	<stdio.h>
+	<errno.h>
+	<setjmp.h>
+	<sys/stat.h>
+	<perror.h>
+
+1115884035 c:\users\pc\downloads\netpbm-10.27-lib\include\pm_config.h
+	<stdint.h>
+	<string.h>
+	<fcntl.h>
+	<time.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdlib.h>
+	<malloc.h>
+	<clib/exec_protos.h>
+
+1027281857 c:\users\pc\downloads\netpbm-10.27-lib\include\pnm.h
+	"ppm.h"
+
+1082595178 c:\users\pc\downloads\netpbm-10.27-lib\include\ppm.h
+	"pgm.h"
+	"ppmcmap.h"
+
+1079586425 c:\users\pc\downloads\netpbm-10.27-lib\include\pgm.h
+	"pbm.h"
+
+1091907267 c:\users\pc\downloads\netpbm-10.27-lib\include\pbm.h
+	"pm.h"
+
+1082585137 c:\users\pc\downloads\netpbm-10.27-lib\include\ppmcmap.h
+
+1744374690 source:c:\users\pc\documents\education\programming for engineers\projects\engineering\gd-test.c
+	<gd.h>
+	<stdio.h>
+
+1739365632 c:\msys64\mingw64\include\gd.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"gd_io.h"
+	"gdfx.h"
+
+1739365632 c:\msys64\mingw64\include\gd_io.h
+	<stdio.h>
+
+1739365632 c:\msys64\mingw64\include\gdfx.h
+
+1108239124 c:\msys64\mingw64\include\netpbm\pam.h
+	"pm.h"
+	"pnm.h"
+
+1744361484 c:\msys64\mingw64\include\netpbm\pm.h
+	"pm_config.h"
+	<sys/types.h>
+	<ctype.h>
+	<stdio.h>
+	<errno.h>
+	<setjmp.h>
+	<sys/stat.h>
+	<perror.h>
+
+1115884035 c:\msys64\mingw64\include\netpbm\pm_config.h
+	<stdint.h>
+	<string.h>
+	<fcntl.h>
+	<time.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdlib.h>
+	<malloc.h>
+	<clib/exec_protos.h>
+
+1027281857 c:\msys64\mingw64\include\netpbm\pnm.h
+	"ppm.h"
+
+1082595178 c:\msys64\mingw64\include\netpbm\ppm.h
+	"pgm.h"
+	"ppmcmap.h"
+
+1079586425 c:\msys64\mingw64\include\netpbm\pgm.h
+	"pbm.h"
+
+1091907267 c:\msys64\mingw64\include\netpbm\pbm.h
+	"pm.h"
+
+1082585137 c:\msys64\mingw64\include\netpbm\ppmcmap.h
+
+1740049441 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/fetch_line.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"fetch_line.h"
+
+1739952944 /home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/fetch_line.h
+	<stdio.h>
+
+1740050014 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/fetch_line_demo.c
+	<stdio.h>
+	<stdlib.h>
+	"fetch_line.h"
+
+1744483740 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/gd-test.c
+
+1739041769 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/mallo.c
+	<stdio.h>
+	<stdlib.h>
+
+1742812422 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/matrix.c
+	<stdio.h>
+	"malloc.h"
+
+1746455320 /home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/malloc.h
+	<stdlib.h>
+
+1740661060 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/randint.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1744484185 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/random-pbm.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+
+1742897095 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/sparse.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+	<suitesparse/umfpack.h>
+
+1742807728 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/sparse_demo.c
+	<stdio.h>
+	<stdlib.h>
+	"sparse.h"
+
+1742896374 /home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/sparse.h
+
+1744369343 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/umfpack_demo.c
+	<suitesparse/umfpack.h>
+	<stdlib.h>
+	<stdio.h>
+	"malloc.h"
+	"sparse.h"
+
+1739723031 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/vector.c
+	<stdio.h>
+	"malloc.h"
+
+1746452698 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/wavelet.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"wavelet.h"
+
+1743476726 /home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/wavelet.h
+
+1746455278 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/wavelet_test.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+	"wavelet.h"
+
+1739722605 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/xmalloc.c
+	"malloc.h"
+	<stddef.h>
+	<stdio.h>
+
+1745089077 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/image-io.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+	"image-io.h"
+
+1745059658 /home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/image-io.h
+	<pam.h>
+
+1744772120 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/test.c
+
+1745082513 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/image-io-test.c
+	"image-io.h"
+	<unistd.h>
+
+1744772109 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/png_to_ppm.c
+	<stdio.h>
+	<stdlib.h>
+
+1745089322 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/image-io-test1.c
+	"image-io.h"
+
+1746449650 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/image-io-test-2.c
+	<stdio.h>
+	"image-io.h"
+
+1746455951 source:/home/kamau/Documents/EDUCATION/programming_eng/projects/engineering/image-analysis.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<assert.h>
+	"image-io.h"
+	"wavelet.h"
+	"malloc.h"
+
