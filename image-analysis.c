@@ -13,6 +13,13 @@
 
 
 static double bisec_algo(double **a, int m, int n, double initial_t, double minimum, double maximum, double req_abs_error, double bisec_range, double norm)
+/*
+* This line of code has some bugs regards the return value of the function
+
+
+* TODO //
+* You are supposed to clean the code and make sure it's returning the right value
+*/
 {
     double abs_err, next_t = 0.0;
 
@@ -37,7 +44,7 @@ static double bisec_algo(double **a, int m, int n, double initial_t, double mini
     printf("#####This is the norm %f\n", norm);
     printf("#####This is the relative err %f\n\n", (abs_err/norm));
 
-    if (bisec_range <= FACTOR * norm)
+    if (bisec_range <= FACTOR * norm)d
     {
         return initial_t;
     }
@@ -78,7 +85,6 @@ static int prune_matrix(double **a, int m, int n, double rel_err)
         }
     }
 
-//    printf("********mean square: %f\n", norm2);
     double req_abs_err2 = sqrt(norm2*rel_err*rel_err);
     norm2 = sqrt(norm2);
 
@@ -240,7 +246,6 @@ int main(int argc, char** argv)
     pm_init(argv[0], 0);
     struct image *img = read_image(infile);
     struct pam *pam = &img -> pam;
-    printf("*******************************hello********************************\n");
     if (pam -> format == PGM_FORMAT || pam -> format == RPGM_FORMAT)
         reduce_pgm_image(img, rel_err);
     else if (pam -> format == PPM_FORMAT || pam -> format == RPPM_FORMAT)

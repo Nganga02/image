@@ -11,7 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters="/home/kamau/Downloads/cat.ppm /home/kamau/Downloads/cat4.ppm" />
+				<Option parameters="0.10 /home/kamau/Downloads/dat.ppm /home/kamau/Downloads/cat7.ppm" />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
@@ -76,6 +76,10 @@
 		</Unit>
 		<Unit filename="image-io.h" />
 		<Unit filename="jpg_to_ppm.h" />
+		<Unit filename="linked-list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linked-list.h" />
 		<Unit filename="mallo.c">
 			<Option compilerVar="CC" />
 		</Unit>
